@@ -2,6 +2,8 @@
 
 A Flutter app designed to motivate young violinists to practice.
 
+The original app lives in a private repository on my github account because I am selling this app on Google Play. Here an overview on what I have done. If you are interested in any particular code part, please let me know.
+
 Violin Motivation Adventure combines a practice-tracking experience, interactive challenges, and live pitch detection to help users improve intonation and consistency — turning practice sessions into a rewarding, game-like journey.
 
 <!-- Optional: add a screenshot or short demo GIF here, e.g. -->
